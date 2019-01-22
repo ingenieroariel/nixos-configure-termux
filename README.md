@@ -1,0 +1,2 @@
+# nixos-configure-termux
+Sandbox
